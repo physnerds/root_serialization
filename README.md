@@ -1,5 +1,7 @@
 # root_serialization
 
+
+Doxygen produced page is available here https://physnerds.github.io/root_serialization/md_README.html 
 This is a testing structure for doing performance experiments with various I/O packages from within an multi-threaded program. The program mimics behaviors common for
 HEP data processing frameworks.
 
