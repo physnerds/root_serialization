@@ -4,7 +4,7 @@ name: Doxygen Action
 on:
   push:
     branches:
-      - main  # Modify to match your main branch name
+      - master  # Modify to match your main branch name
 
 jobs:
   build:
